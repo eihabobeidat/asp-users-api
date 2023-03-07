@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
-    "\\API\\Data",
-    "\\API\\Data\\Migrations"
+    "\\API"
   ],
-  "SelectedNode": "\\API\\Data\\Migrations\\DataContextModelSnapshot.cs",
+  "SelectedNode": "\\API\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
